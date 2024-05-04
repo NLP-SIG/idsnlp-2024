@@ -34,9 +34,15 @@ a:hover {
 /*
 p {margin: 0px;}*/
 
-ul, li {
+/* ul, li {
 	margin: 0px;
 	list-style-type: none;
+} */
+
+li {
+  /* font-size: 14px; */
+  margin-left: 30px;
+  /* list-style-type: circle; */
 }
 
 
@@ -102,10 +108,10 @@ table {
   background-color: #f5f5f5;
 }
 
-th, td {
+/* th, td {
   font-weight: unset;
   padding-right: 10px;
-}
+} */
 
 .column100 {
 /*  width: 130px;*/
