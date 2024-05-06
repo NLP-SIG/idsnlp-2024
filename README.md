@@ -1,3 +1,3 @@
-# SSNLP-2023
+# IDSNLP-2024
 
-Website for SSNLP 2023 to be held at School of Computing, National University of Singapore on 4 December 2023.
+ We are pleased to announce that NUS IDS (Institute of Data Science) NLP-SIG Workshop for TheWebConf 2024 will be held on Friday, May 17. 
