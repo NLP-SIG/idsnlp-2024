@@ -109,6 +109,12 @@ table {
   text-align: center;
 }
 
+.column100l {
+  /*  width: 130px;*/
+    padding-left: 6px;
+    text-align: left;
+}
+
 .column100.column1 {
 /*  width: 265px;*/
   padding-left: 6px;
